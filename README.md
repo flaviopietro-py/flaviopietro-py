@@ -1,4 +1,4 @@
-# Olã 👋, Eu sou Flavio Pietro
+# Olá 👋, Eu sou Flavio Pietro
 
 🚀 **Estudante de Tecnologia e Programação | Python & Back-end**
 
@@ -13,7 +13,7 @@ Aprendo na prática, desenvolvendo projetos próprios e explorando **APIs, bots,
 
 ---
 
-## 🌐 Where to find me
+## 🌐 Onde me encontrar
 
 <p align="left">
   <a href="https://github.com/flaviopietro-py">
@@ -26,7 +26,7 @@ Aprendo na prática, desenvolvendo projetos próprios e explorando **APIs, bots,
 
 ---
 
-## ## 🧠 O que estou fazendo
+## 🧠 O que estou fazendo
 
 * 🐍 Estudando **Python e lógica de programação**
 * 🌐 Criando **sites e aplicações SaaS**
@@ -42,7 +42,7 @@ Aprendo na prática, desenvolvendo projetos próprios e explorando **APIs, bots,
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ tecnologias
 
 ### 🐍 Linguagens & Desenvolvimento
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -55,21 +55,13 @@ Aprendo na prática, desenvolvendo projetos próprios e explorando **APIs, bots,
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
 ## 🚀 Filosofia
 
 > *Programar não é apenas escrever código.*
-> *É transformar ideias em soluções, aprender com cada erro e evoluir a cada projeto.
+> *É transformar ideias em soluções, aprender com cada erro e evoluir a cada projeto.*
 
 
 ---
